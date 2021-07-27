@@ -1,0 +1,8 @@
+.idea/
+venv/
+target/
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+
