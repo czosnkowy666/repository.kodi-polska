@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><addons>
-  <addon provider-name="garlic666" name="Kodi Polska TVP" id="plugin.video.kodi-polska-tvp" version="0.0.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+  <addon provider-name="garlic666" name="Kodi Polska TVP" id="plugin.video.kodi-polska-tvp" version="0.0.3">
     <requires>
       <import addon="xbmc.python" version="3.0.0"/>
     </requires>
