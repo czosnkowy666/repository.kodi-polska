@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.kodi-polska" name="Kodi Polska add-ons" version="0.0.3" provider-name="garlic666">
-	<extension point="xbmc.addon.repository" name="Zomboided Add-on Repository">
+	<extension point="xbmc.addon.repository" name="Kodi Polska Add-on Repository">
 		<dir>
-			<info compressed="false">https://czosnkowy666.github.io/repository.kodi-polska/addons/addons.xml</info>
-			<checksum>https://czosnkowy666.github.io/repository.kodi-polska/addons/addons.xml.md5</checksum>
+			<info compressed="false">https://czosnkowy666.github.io/repository.kodi-polska/addons.xml</info>
+			<checksum>https://czosnkowy666.github.io/repository.kodi-polska/addons.xml.md5</checksum>
 			<datadir zip="true">https://czosnkowy666.github.io/repository.kodi-polska/zips/</datadir>
 		</dir>
 	</extension>
